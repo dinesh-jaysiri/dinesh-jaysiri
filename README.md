@@ -1,5 +1,5 @@
 - Hi, I’m Dinesh Jayasiri 👋
-- 👀 I’m interested in Next.js, Ethereum and Solana
+- 👀 I’m interested in NestJs, Ethereum and Solana
 - 🌱 I’m currently learning Laravel Vue
 - 💞️ I’m looking to collaborate on Laravel Development
 - 📫 How to reach me ... ywdinesh@gmail.com
