@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dinesh-jaysiri)
 - Hi, I’m Dinesh Jayasiri 👋
 - 👀 I’m interested in NestJs, Ethereum and Solana
 - 🌱 I’m currently learning Laravel Vue
