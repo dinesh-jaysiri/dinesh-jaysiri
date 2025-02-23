@@ -1,11 +1,18 @@
-![](https://komarev.com/ghpvc/?username=dinesh-jaysiri)
-- Hi, I’m Dinesh Jayasiri 👋
-- 👀 I’m interested in NestJs, Ethereum and Solana
-- 🌱 I’m currently learning Laravel Vue
-- 💞️ I’m looking to collaborate on Laravel Development
-- 📫 How to reach me ... ywdinesh@gmail.com
+![](https://komarev.com/ghpvc/?username=dinesh-jaysiri&style=flat-square)
 
-<!---
-dinesh-jaysiri/dinesh-jaysiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Dinesh Jayasiri 👋  
+
+🚀 **Full-Stack Software Engineer | Blockchain & SaaS Enthusiast**  
+
+### 🌟 About Me  
+- 💻 Specializing in **Next.js, TypeScript, Prisma, and Blockchain Development**  
+- 🔍 Exploring **Ethereum, Solidity, and Smart Contract Development**  
+- 📚 Currently enhancing my skills in **Laravel & Vue.js**  
+- 🤝 Open to collaborating on **SaaS & Blockchain Projects**  
+- 📩 Reach me at **ywdinesh@gmail.com**  
+
+### 🛠️ Tech Stack  
+**Frontend:** React, Next.js, Vue.js, Tailwind CSS  
+**Backend:** Node.js, NestJS, Laravel, Prisma, REST APIs  
+**Blockchain:** Solidity, Hardhat, Ethers.js, Web3.js  
+**Tools:** Docker, Vercel, GitHub Actions, Stripe  
